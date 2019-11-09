@@ -19,6 +19,7 @@ public class HelloWorldClient {
           ex.printStackTrace();
       } catch (java.rmi.RemoteException ex) {
           ex.printStackTrace();
+          //
       }  
   }
 }
